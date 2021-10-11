@@ -8,4 +8,4 @@ and the inside content will get deleted.
 <br>
 This can't be prevented and reverted and so we need to be carefull and keep a backup of our system properly.
 <br>
-If you're cloning, then clone with caution and don't open the .bat extension file.
+While cloning, open with caution and avoid .bat extension file.
